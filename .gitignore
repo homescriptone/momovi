@@ -151,3 +151,5 @@ ENV/
 .ropeproject
 
 .idea/*
+*.sqlite
+*.sqlite3
